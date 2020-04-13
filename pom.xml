@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>net.okocraft.afks</groupId>
     <artifactId>AFKs</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 
     <properties>
         <project.charset>UTF-8</project.charset>
