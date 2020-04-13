@@ -51,5 +51,8 @@ hs_err_pid*
 .classpath
 .project
 .vscode/
-.classpath
-.project
+
+# IntellIJ
+
+.idea
+AFKs.iml
