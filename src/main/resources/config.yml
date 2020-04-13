@@ -1,5 +1,6 @@
 command-for-afk:
   - "kick %player% afk is not allowed."
 
-# in tick
-afk-check-task-priod: 6000
+# in seconds
+afk-check-task-period: 60
+time-to-kick: 300
