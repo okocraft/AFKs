@@ -4,3 +4,5 @@ command-for-afk:
 # in seconds
 afk-check-task-period: 60
 time-to-kick: 300
+
+player-limit: 5

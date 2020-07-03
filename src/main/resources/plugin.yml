@@ -5,5 +5,5 @@ author: LazyGon
 api-version: "1.15"
 
 permissions:
-  afks.bypass.command:
+  afks.bypass:
     default: op
